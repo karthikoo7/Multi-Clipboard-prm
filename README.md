@@ -1,5 +1,6 @@
 # Multi-Clipboard-prm
 You want to be able to run this program with a command line argument that is a short key phrase—for instance, agree or busy. The message associated with that key phrase will be copied to the clipboard so that the user can paste it into an email. This way, the user can have long, detailed messages without having to retype them.
+* to check on pycharm, run the code and edit configuration in the drop down menu beside the green play button and pass the parameter in the script parameter field that you want is sys.srgv[1]
 Install pyperclip:
 PyCharm > Preferences > Python Interpreter > click + > search for pyperclip > Install.
 Or open Terminal and run:
